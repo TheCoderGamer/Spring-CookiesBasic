@@ -1,0 +1,11 @@
+body {
+    background-color: navajowhite;
+}
+h1{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+}
